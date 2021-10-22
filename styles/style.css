@@ -1,0 +1,23 @@
+html {
+    font-family: 'system-ui', serif;
+}
+
+h1{
+    text-align: center;
+    color: #364e96;
+    padding: 0.5em 0;
+    border-top: solid 3px #364e96;
+    border-bottom: solid 3px #364e96;
+}
+
+h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 1rem 2rem;
+    border-left: 6px double #364e96;
+}
+
+
+
+li{
+    margin: 15px;
+}
